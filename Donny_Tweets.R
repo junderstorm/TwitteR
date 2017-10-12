@@ -19,7 +19,7 @@ setwd("~/Dropbox/R Directory/Twitter R Scripts/TwitteR Fun")
 #setup_twitter_oauth("API key", "API secret", "Access token", "Access secret")
 
 #For Junderstorm run below
-setup_twitter_oauth('MTlFiSdjltqtiKSWGYIFZ9ray','nCHIMoq5aAOfXUBW90wGCAgx4QoEuFeYe9oSxRRgvaOReSaRk9','227046523-9fPL0yyb1AqMWp1fUlKW3hY9ryY9MxqISXQqIuId','6lEAwSNF1jhnAPjZODTQchzNJw5scB1z9K21EVEHjaVfK')
+setup_twitter_oauth('API KEYS HERE')
 
 don <- getUser("realdonaldtrump")
 don$getId() #Printing out my ID to verify
